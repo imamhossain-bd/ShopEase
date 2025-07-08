@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "description": "Experience immersive sound with noise cancellation and 20-hour battery life.",
+    "price": 129.99,
+    "category": "Electronics",
+    "type": "Electronic Product",
+    "image": "https://i.ibb.co/kgvwsHfH/download.png",
+    "rating": 4.5,
+    "stock": 30,
+    "features": [
+      "Noise cancellation",
+      "20-hour battery life",
+      "Bluetooth 5.0",
+      "Built-in microphone",
+      "Carrying case included"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Smart Fitness Watch",
+    "description": "Track your heart rate, steps, and sleep with this all-in-one smartwatch.",
+    "price": 199.99,
+    "category": "Electronics",
+    "type": "Electronic Product",
+    "image": "https://i.ibb.co/JW7ST68S/download-1.png",
+    "rating": 4.2,
+    "stock": 45,
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Water-resistant",
+      "OLED touch display"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Ceramic Tea Mug",
+    "description": "Minimalist design, microwave-safe, and perfect for your daily brew.",
+    "price": 19.99,
+    "category": "Home",
+    "type": "Co-caries Product",
+    "image": "https://i.ibb.co/bMjRcbjx/cup.png",
+    "rating": 4.7,
+    "stock": 60,
+    "features": [
+      "Microwave safe",
+      "Dishwasher safe",
+      "Minimalist design",
+      "Durable ceramic",
+      "12 oz capacity"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Anti-theft Laptop Backpack",
+    "description": "Stylish and secure backpack with USB charging port and waterproof fabric.",
+    "price": 59.99,
+    "category": "Fashion",
+    "type": "Bagpack",
+    "image": "https://i.ibb.co/ycyTBq5b/bagpack.png",
+    "rating": 4.3,
+    "stock": 15,
+    "features": [
+      "Anti-theft lock",
+      "Waterproof material",
+      "USB charging port",
+      "Laptop compartment",
+      "Ergonomic straps"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Portable Bluetooth Speaker",
+    "description": "Compact and powerful Bluetooth speaker with impressive sound quality. Perfect for outdoor adventures with its waterproof design and long battery life.",
+    "price": 59.99,
+    "category": "Electronics",
+    "type": "Electronics Product",
+    "image": "https://i.ibb.co/C519gQrV/Portable-Speaker.png",
+    "rating": 4.6,
+    "stock": 12,
+    "features": [
+      "Waterproof",
+      "10-hour battery life",
+      "Bluetooth 5.0",
+      "Built-in microphone"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Ceramic Coffee Mug",
+    "description": "Minimalist design, microwave-safe, and perfect for your daily brew.",
+    "price": 19.99,
+    "category": "Home",
+    "type": "Co-caries Product",
+    "image": "https://i.ibb.co/rf0t5wnp/Cap-3.png",
+    "rating": 4.7,
+    "stock": 60,
+    "features": [
+      "Microwave safe",
+      "Dishwasher safe",
+      "Minimalist design",
+      "Durable ceramic",
+      "12 oz capacity"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Insulated Stainless Steel Bottle",
+    "description": "Keeps beverages hot for 12 hrs and cold for 24 hrs.",
+    "price": 29.99,
+    "category": "Home",
+    "type": "Co-caries Product",
+    "image": "https://i.ibb.co/tpzn16sw/Bottle-3.png",
+    "rating": 4.4,
+    "stock": 40,
+    "features": [
+      "Double-wall insulation",
+      "BPA-free",
+      "Leakproof lid",
+      "Hot for 12 hrs / Cold for 24 hrs",
+      "500ml capacity"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Stainless Steel Water Bottle",
+    "description": "Double-walled insulated water bottle that keeps drinks cold for 24 hours or hot for 12 hours. Made from high-quality stainless steel with a leak-proof lid.",
+    "price": 29.99,
+    "category": "Sport",
+    "type": "Co-caries Product",
+    "image": "https://i.ibb.co/XZzzBGmJ/Water-Bottle.png",
+    "rating": 4.8,
+    "stock": 28,
+    "features": [
+      "Double-walled insulation",
+      "BPA-free",
+      "Leak-proof lid",
+      "500ml capacity"
+    ]
+  }
+]
