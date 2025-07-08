@@ -11,7 +11,7 @@ It showcases a modern shopping cart flow with route management and smooth animat
 
 ## 🔗 Live Demo
 
-Deployed on Vercel: **[https://shop-sphere-alpha.vercel.app/]**  
+Deployed on Vercel: **[https://shop-ease-six-black.vercel.app/]**  
 
 ---
 
