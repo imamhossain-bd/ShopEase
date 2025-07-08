@@ -44,3 +44,21 @@ Deployed on Vercel: **[https://shop-sphere-alpha.vercel.app/]**
    ```bash
    git clone https://github.com/imamhossain-bd/shopsphere.git
    cd shopsphere
+   npm install
+   npm run dev
+
+## Open in browser
+   http://localhost:5173
+
+## Project Structure (Simplified)
+   ShopSphere/
+├── public/
+├── src/
+│   ├── components/
+│   ├── context/
+│   ├── pages/
+│   └── main.tsx
+├── index.html
+├── tailwind.config.js
+├── package.json
+└── vite.config.js
